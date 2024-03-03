@@ -1,5 +1,5 @@
 ---
-title: "The_Donnybrook"
+title: "The Donnybrook Blog- Debate, Discuss and Discourse"
 listing:
   contents: posts
   sort: "date desc"
