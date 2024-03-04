@@ -1,5 +1,5 @@
 ---
-title: "Abou Me"
+title: "About Me"
 image: image278155226-5145-b46e35e904e281aaaa02bc351b2a6284@1x.jpg
 about:
   template: jolla
