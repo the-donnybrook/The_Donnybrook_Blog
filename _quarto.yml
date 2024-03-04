@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "The Donnybrook"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/the-donnybrook
+      - icon: twitter
+        href: https://twitter.com/XXX
+      - icon: rss
+        href: index.xml
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
